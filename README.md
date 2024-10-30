@@ -1,40 +1,40 @@
-# NumericalMeth
+# Numerical Methods
 
-## Здесь вы найдёте несколько моих работ, связанных с численными методами
+## Here you will find several of my works related to numerical methods
 
-### [Лабораторная работа №1](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab1Simakov.ipynb)
-Здесь вы найдёте исследование поведения погрешности приближения функции частичными суммами.
+### [LAB №1](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab1Simakov.ipynb)
+Here you will find a study of the behavior of the error in approximating a function with partial sums.
 
-### [Лабораторная работа №2](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab2Simakov.ipynb)
-1. Методом простой итерации ищутся корни вещественного уравнения с заданной точностью.
-2. Решение нелинейного уравнения методом Ньютона и упрощенным методом Ньютона с заданной точностью.
-3. Поиск корней уравнения и определение их кратности
+### [LAB №2](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab2Simakov.ipynb)
+1. Using a simple iteration method, the roots of a real equation are sought with a given accuracy.
+2. Solving a nonlinear equation by Newton's method and simplified Newton's method with a given accuracy.
+3. Finding the roots of the equation and determining their multiplicity
 
-### [Лабораторная работа №3](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab3Simakov.ipynb)
-1. Реализация решения СЛАУ с помощью LU разложения и LU разложения по схеме частичного выбора.
-2. Решение СЛАУ с разреженной матрицей прямым методом.
-3. Решение СЛАУ методом минимальных невязок.
+### [LAB №3](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab3Simakov.ipynb)
+1. Implementation of solving SLE using LU decomposition and LU decomposition using a partial choice scheme.
+2. Solving SLE with a sparse matrix using the direct method.
+3. Solving SLE using the minimal residual method.
 
-### [Лабораторная работа №4](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab5.ipynb)
-1. В данной части работы происходит моделирование населения некого города в будущем году при помощи МНК и интерполяции, происходит сравнение результатов.
-2. Здесь рассматривается приближение заданной функции многочленами Лагранжа и Эрмита.
-3. Тут найдёте экономизацию ряда Тейлора с использованием многочлена Чебышева.
+### [LAB №4](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab5.ipynb)
+1. In this part of the work, the population of a certain city in the next year is modeled using LS and interpolation, and the results are compared.
+2. Here we consider the approximation of a given function by Lagrange and Hermite polynomials.
+3. Here you will find an economization of the Taylor series using the Chebyshev polynomial.
 
-### [Лабораторная работа №5](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab6Simakov.ipynb)
-В этой работе решается задача Коши методоми Эйлера и Рунге-Кутты (3 порядок точности). Также происходит исследование на оптимальные шаг и число точек разбиения. Построены графики
+### [LAB №5](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab6Simakov.ipynb)
+In this work, the Cauchy problem is solved using the Euler and Runge-Kutta methods (3rd order of accuracy). A study is also carried out to determine the optimal step and number of partition points. Graphs built
 
-### [Лабораторная работа №6](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab7Simakov.ipynb)
-1. В этой работе проводится исследование зависимости численного решения задачи Коши при использовании двух методов (см. [их здесь](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab6Simakov.ipynb)). Сначала задача решается при фиксированном шаге, затем при фиксированной точности, производится сравнение результатов.
-2. В этой части работы идёт работса с задачей Коши для двух систем обыкновенных дифференциальных уравнений с постоянными коэффициентами. Задача решатся методом Эйлера, затем неявным методом Эйлера. Далее идёт сравнение полученных результатов.
+### [LAB №6](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab7Simakov.ipynb)
+1. In this work, we study the dependence of the numerical solution of the Cauchy problem using two methods (see [them here](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab6Simakov.ipynb)). First, the problem is solved with a fixed step, then with a fixed accuracy, the results are compared.
+2. In this part of the work we work with the Cauchy problem for two systems of ordinary differential equations with constant coefficients. The problem is solved by the Euler method, then by the implicit Euler method. The following is a comparison of the results obtained.
 
-### [Лабораторная работа №7](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab8Simakov.ipynb)
-1. В данной работе вы найдёте численное решение краевой задачи для дифференциального уравнения второго порядка методом конечных разностей.
-2. В этой части работы находится численное решение краевой задачи, порождаемой следующей задачей
+### [LAB №7](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab8Simakov.ipynb)
+1. In this work you will find a numerical solution to a boundary value problem for a second-order differential equation using the finite difference method.
+2. In this part of the work, we find a numerical solution to the boundary value problem generated by the following problem
 
-_Стержень составляется из трех частей одинаковой длины 1 и с разными  коэффициентами теплопроводности. Концы стержня поддерживаются при постоянной температуре. В каком порядке следует составить части стержня, чтобы  указанная точка x0 стержня имела максимальную температуру?_
+_The rod is made up of three parts of the same length 1 and with different thermal conductivity coefficients. The ends of the rod are maintained at a constant temperature. In what order should the parts of the rod be assembled so that the indicated point x0 of the rod has the maximum temperature?_
 
-### [Лабораторная работа №8](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab1Sem9New.ipynb)
-Итерационные методы решения СЛАУ и их сглаживающие свойства
+### [LAB №8](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab1Sem9New.ipynb)
+Iterative methods for solving SLE and their smoothing properties.
 
-### [Моделирование прилунения](https://github.com/ALex2002Sim/NumericalMeth/blob/main/MoonLanding.ipynb)
-Курсовая работа на тему "Моделирование прилунения"
+### [Lunar Landing](https://github.com/ALex2002Sim/NumericalMeth/blob/main/MoonLanding.ipynb)
+Lunar Landing Simulation Problem
