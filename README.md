@@ -36,5 +36,8 @@ _The rod is made up of three parts of the same length 1 and with different therm
 ### [LAB №8](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab1Sem9New.ipynb)
 Iterative methods for solving SLE and their smoothing properties.
 
+### [LAB №9](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab2Sem9.ipynb)
+Solving a two-point boundary value problem using the finite elements method.
+
 ### [Lunar Landing](https://github.com/ALex2002Sim/NumericalMeth/blob/main/MoonLanding.ipynb)
 Lunar Landing Simulation Problem
