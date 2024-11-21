@@ -40,8 +40,7 @@ Iterative methods for solving SLE and their smoothing properties.
 Solving a two-point boundary value problem using the finite elements method.
 
 ### [LAB №10](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab3Sem9.ipynb)
-MGM: A meshfree geometric multilevel methods for systems arising from two-point boundary value problem
-MGMV, MGMW, MGMFV have been implemented.
+MGM: A meshfree geometric multilevel methods (MGMV, MGMW, MGMFV) for systems arising from two-point boundary value problem.
 
 ### [Lunar Landing](https://github.com/ALex2002Sim/NumericalMeth/blob/main/MoonLanding.ipynb)
 Lunar Landing Simulation Problem
