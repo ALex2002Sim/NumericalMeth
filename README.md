@@ -39,5 +39,8 @@ Iterative methods for solving SLE and their smoothing properties.
 ### [LAB №9](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab2Sem9.ipynb)
 Solving a two-point boundary value problem using the finite elements method.
 
+###[LAB №10](https://github.com/ALex2002Sim/NumericalMeth/blob/main/lab3Sem9.ipynb)
+MGM: A meshfree geometric multilevel method (MGMV, MGMW, MGMFV)
+
 ### [Lunar Landing](https://github.com/ALex2002Sim/NumericalMeth/blob/main/MoonLanding.ipynb)
 Lunar Landing Simulation Problem
